@@ -1,0 +1,12 @@
+#!/bin/sh
+
+PACK_NAME="deepin.com.qq.im"
+BOTTLE_NAME="Deepin-QQ"
+ACTIVEX_NAME=""
+MAKE_AUTOSTART=""
+SEND_TO_DESKTOP=""
+
+# Make sure the script returns 0
+true
+
+
