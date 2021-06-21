@@ -4,9 +4,9 @@
 Encoding=UTF-8
 Type=Application
 X-Created-By=zhullyb
-Categories=chat;Network;
+Categories=chat;
 Icon=deepin.com.dingtalk.com
-Exec="/opt/deepinwine/apps/Deepin-DingTalk/run.sh" -u %u
+Exec="/opt/apps/deepin.com.dingtalk.com/files/run.sh" -u %u
 Name=DingTalk
 Name[zh_CN]=钉钉
 Comment=DingTalk Client on Deepin Wine
